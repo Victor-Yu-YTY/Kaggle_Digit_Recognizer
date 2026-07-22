@@ -64,7 +64,7 @@ pixel783 = 0
 
 #### 2）将图片的784个像素恢复成28×28图片，并显示
 
-![像素图片](outputs/sample_digits.png)
+![像素图片](sample_digits.png)
 
 ## 03_train_baseline（逻辑回归）
 
@@ -169,7 +169,7 @@ SVC 内部会把多分类任务拆成多个两两分类问题
 - 用验证集检查准确率
 - 保存验证效果最好的模型
 
-![CNN](outputs/cnn_training_curves.png)
+![CNN](cnn_training_curves.png)
 
 #### 1）数据增强
 
